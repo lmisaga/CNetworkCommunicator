@@ -1,0 +1,3 @@
+/home/lukas/CLionProjects/pks2toGit/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lukas/CLionProjects/pks2toGit/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lukas/CLionProjects/pks2toGit/cmake-build-debug/CMakeFiles/pks2toGit.dir

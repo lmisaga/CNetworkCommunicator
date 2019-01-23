@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/pks2toGit.dir/main.c.o  -o pks2toGit 
